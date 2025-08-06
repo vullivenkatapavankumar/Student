@@ -26,3 +26,8 @@ To implement a command-line interface (CLI) application that can **Add**, **View
    javac Student.java Studentmanagement.java
 
 
+## Output
+![studentoutput1](https://github.com/user-attachments/assets/08d1fde1-daf5-4738-ab5d-bd0a371c1721)
+![studentoutput2](https://github.com/user-attachments/assets/63189dee-ce76-411a-82d5-f09e7d6b73a6)
+
+
